@@ -1,0 +1,17 @@
+{
+  "name": "js-to-ts",
+  "version": "1.0.0",
+  "description": "A sample nodejs application to demonstrate how to convert a Javascript application into Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  }
+}
